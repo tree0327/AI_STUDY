@@ -14,6 +14,7 @@
 | 11.12 | 변수, 문자열 다루기 | `03variable.ipynb`, `04str.ipynb` |
 | 11.13 | List · tuple · dictionary · set | `05list.ipynb`, `06tuple.ipynb`, `07dictionary.ipynb`, `08set.ipynb` |
 | 11.14 | if · for · while · List comprehention | `09if.ipynb`, `10for.ipynb`, `11while.ipynb`, `12listcomprehention.ipynb` |
+| 11.17 | print · input · function · lambda | `13print.ipynb`, `14input.ipynb`, `16function.ipynb`, `17lambda.ipynb` |
 
 > 각 학습 파일은 Jupyter Notebook 형식입니다.
 
